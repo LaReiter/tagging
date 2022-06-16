@@ -1,0 +1,1 @@
+Mirror results (with data from own article) from the article "Assessing the post-release effects of capture, handling and placement of satellite telemetry devices on narwhal (Monodon monoceros) movement behaviour"
