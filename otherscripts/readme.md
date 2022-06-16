@@ -1,1 +1,1 @@
-These scripts are unrelated to the actual article.
+These plots are unrelated to the actual article.
