@@ -1,0 +1,1 @@
+Jensen-Shannon divergence plots. Includes block bootstrap samples for the labelled (plus and negative one) measurements, and a plot visualising how the variability decreases with wider temporal stretches.
