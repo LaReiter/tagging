@@ -4,4 +4,6 @@ The page contains
 - Scripts (+ simulated data) used to generate the figures, and small examples.
 - Additional plots which did not make it in the final paper
 - Results for ODBA
-- Errata
+
+Errata:
+- "otherscripts" (in this repository) should be "otherplots"
